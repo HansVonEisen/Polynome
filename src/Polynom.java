@@ -88,7 +88,6 @@ public class Polynom {
             p.setCoefficient(exp, c);
             c++;
         }
-
         System.out.println(p.getY(3.5));
     }
 }
